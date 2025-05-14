@@ -14,7 +14,7 @@ Test ma za zadanie:
 ## 🧰 Technologie
 
 - [Cypress](https://www.cypress.io/) v12+
-- Node.js v18+ (zalecane)
+- Node.js v18+ 
 - JavaScript
 
 ---
