@@ -30,4 +30,5 @@ Pobierz z [nodejs.org](https://nodejs.org)
 W terminalu, w katalogu projektu:
 ```bash
 npm install
+### 3. Uruchomienie
 npx cypress open
