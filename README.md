@@ -25,10 +25,9 @@ Test ma za zadanie:
 
 Pobierz z [nodejs.org](https://nodejs.org)
 
-### 2. Zainstaluj zależności
+### 2. Zainstaluj zależności i uruchomienie
 
 W terminalu, w katalogu projektu:
 ```bash
 npm install
-### 3. Uruchomienie
 npx cypress open
